@@ -1,0 +1,1 @@
+# Boy ve kilonuzu girdiğiniz sürece size vücut kitle endeksinizi veren ve ne kadar kilolu olduğunuzu söyleyen bir araç programladım.
